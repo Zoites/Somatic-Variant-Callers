@@ -16,3 +16,8 @@
 [RePlow](https://sourceforge.net/p/replow/wiki/Home/) detects somatic SNVs from multiple samples. [Preprint](https://www.biorxiv.org/content/early/2017/08/23/179713)
 
 [Shearwater](http://www.bioconductor.org/packages/release/bioc/html/deepSNV.html) detects low frequency variants in deep sequencing experiments (>=100x coverage). [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3998123/)
+
+## Tumor Only Sample Caller
+[ISOWN](https://github.com/ikalatskaya/ISOWN) is a supervised machine learning algorithm for predicting somatic mutations from tumor only samples. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/28659176)
+
+[SomVarIUS](https://github.com/kylessmith/SomVarIUS) identifies somatic mutations from unpaired samples. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/26589277)
