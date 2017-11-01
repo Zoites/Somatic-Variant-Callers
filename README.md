@@ -6,6 +6,8 @@
 ## SNP Callers
 [deepSNV](http://www.bioconductor.org/packages/release/bioc/html/deepSNV.html) detects low frequency variants in deep sequencing experiments (>=100x coverage). [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3998123/)
 
+[LoLoPicker](https://github.com/jcarrotzhang/LoLoPicker) calls somatic variants from tumor sample against matched normal sample plus a user-defined control panel of additional normal samples. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/28416765)
+
 ## Multi-Sample Callers
 [multiSNV](https://bitbucket.org/joseph07/multisnv/wiki/Home) calls somatic SNVs using NGS data from a normal and multiple tumour samples of the same patient. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/25722372)
 
