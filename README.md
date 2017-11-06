@@ -1,4 +1,4 @@
-Last Updated: November 01, 2017
+Last Updated: November 06, 2017
 
 # Somatic-Variant-Callers
 
@@ -9,10 +9,18 @@ Last Updated: November 01, 2017
 
 [Strelka2](https://github.com/Illumina/strelka) calls both somatic SNVs and indels. Strelka2 also calls germline mutations. [Preprint](https://www.biorxiv.org/content/early/2017/09/25/192872)
 
+[Samtools-mpileup](http://www.htslib.org/doc/samtools.html) call SNPs and short INDELs. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/21320865) 
+
 ## SNP Callers
 [deepSNV](http://www.bioconductor.org/packages/release/bioc/html/deepSNV.html) detects low frequency variants in deep sequencing experiments (>=100x coverage). [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3998123/)
 
 [LoLoPicker](https://github.com/jcarrotzhang/LoLoPicker) calls somatic variants from tumor sample against matched normal sample plus a user-defined control panel of additional normal samples. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/28416765)
+
+[mutationSeq](http://shahlab.ca/projects/mutationseq/) is a software for somatic SNV detection. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/22084253)
+
+[QuadGT](http://www.iro.umontreal.ca/~csuros/quadgt/) is a software package for calling single-nucleotide variants in four sequenced genomes comprising a normal-tumor pair and the two parents. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/?term=23734724)
+
+[JointSNVMix](https://code.google.com/archive/p/joint-snv-mix/) implements a probabilistic graphical model to analyse sequence data from tumour/normal pairs jointly to more accurately classify germline and somatic mutations. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/22285562)
 
 ## Multi-Sample Callers
 [multiSNV](https://bitbucket.org/joseph07/multisnv/wiki/Home) calls somatic SNVs using NGS data from a normal and multiple tumour samples of the same patient. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/25722372)
