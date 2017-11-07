@@ -1,4 +1,4 @@
-Last Updated: November 06, 2017
+Last Updated: November 07, 2017
 
 # Somatic-Variant-Callers
 
@@ -10,6 +10,10 @@ Last Updated: November 06, 2017
 [Strelka2](https://github.com/Illumina/strelka) calls both somatic SNVs and indels. Strelka2 also calls germline mutations. [Preprint](https://www.biorxiv.org/content/early/2017/09/25/192872)
 
 [Samtools-mpileup](http://www.htslib.org/doc/samtools.html) call SNPs and short INDELs. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/21320865) 
+
+[LoFreq](https://sourceforge.net/projects/lofreq/?source=navbar) is a fast and sensitive variant-caller for inferring SNVs and indels. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/23066108)
+
+[Seurat](https://sites.google.com/site/seuratsomatic/)supports detection of small somatic mutations (SNVs/indels), LOH events, structural variation and allelic imbalance. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/23642077)
 
 ## SNP Callers
 [deepSNV](http://www.bioconductor.org/packages/release/bioc/html/deepSNV.html) detects low frequency variants in deep sequencing experiments (>=100x coverage). [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3998123/)
