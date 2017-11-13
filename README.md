@@ -26,6 +26,9 @@ Last Updated: November 07, 2017
 
 [JointSNVMix](https://code.google.com/archive/p/joint-snv-mix/) implements a probabilistic graphical model to analyse sequence data from tumour/normal pairs jointly to more accurately classify germline and somatic mutations. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/22285562)
 
+[Shimmer](https://github.com/nhansen/Shimmer) identifies somatic SNVs matched from normal and tumor samples. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/23620360)
+
+
 ## Multi-Sample Callers
 [multiSNV](https://bitbucket.org/joseph07/multisnv/wiki/Home) calls somatic SNVs using NGS data from a normal and multiple tumour samples of the same patient. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/25722372)
 
