@@ -32,7 +32,7 @@ Last Updated: November 29, 2017
 
 [SomaticSniper](https://github.com/genome/somatic-sniper) identify SNPs that are different between tumor and normal (or in theory, any two bam files). [Paper](https://www.ncbi.nlm.nih.gov/pubmed/?term=22155872)
 
-[Virmid](https://sourceforge.net/projects/virmid/) (Virtual Microdissection for SNP calling) is a variant caller designed disease-control matched samples where the diseased sample cannot be purified enough. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/23987214)
+[Virmid](https://sourceforge.net/projects/virmid/) is a SNP caller designed for disease-control matched samples where the diseased sample cannot be purified enough. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/23987214)
 
 ## Multi-Sample Callers
 [multiSNV](https://bitbucket.org/joseph07/multisnv/wiki/Home) calls somatic SNVs using NGS data from a normal and multiple tumour samples of the same patient. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/25722372)
