@@ -19,6 +19,8 @@ Last Updated: November 29, 2017
 
 [HapMuC](https://github.com/usuyama/hapmuc) utilize the information of heterozygous germline variants near candidate mutations to call SNPs. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/25123903)
 
+[SNVSniffer](http://snvsniffer.sourceforge.net/homepage.htm#introduction) identifies both germline and somatic SNVs/indels. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/27489955)
+
 
 ## SNP Callers
 [deepSNV](http://www.bioconductor.org/packages/release/bioc/html/deepSNV.html) detects low frequency variants in deep sequencing experiments (>=100x coverage). [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3998123/)
@@ -53,3 +55,6 @@ Last Updated: November 29, 2017
 
 ## Single and Paired Sample Callers
 [VarDict](https://github.com/AstraZeneca-NGS/VarDict) is a variant caller for both single and paired samples. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/27060149)
+
+## Integrated Tools/Pipeline/Workflows
+Comming soon..
