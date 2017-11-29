@@ -1,4 +1,4 @@
-Last Updated: November 13, 2017
+Last Updated: November 29, 2017
 
 # Somatic-Variant-Callers
 
@@ -15,6 +15,8 @@ Last Updated: November 13, 2017
 
 [Seurat](https://sites.google.com/site/seuratsomatic/) supports detection of small somatic mutations (SNVs/indels), LOH events, structural variation and allelic imbalance. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/23642077)
 
+[VarScan](http://varscan.sourceforge.net/somatic-calling.html) calls somatic variants (SNPs and indels). [Paper](https://www.ncbi.nlm.nih.gov/pubmed/22300766)
+
 ## SNP Callers
 [deepSNV](http://www.bioconductor.org/packages/release/bioc/html/deepSNV.html) detects low frequency variants in deep sequencing experiments (>=100x coverage). [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3998123/)
 
@@ -28,6 +30,9 @@ Last Updated: November 13, 2017
 
 [Shimmer](https://github.com/nhansen/Shimmer) identifies somatic SNVs from matched normal and tumor samples. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/23620360)
 
+[SomaticSniper](https://github.com/genome/somatic-sniper) identify SNPs that are different between tumor and normal (or in theory, any two bam files). [Paper](https://www.ncbi.nlm.nih.gov/pubmed/?term=22155872)
+
+[Virmid](https://sourceforge.net/projects/virmid/) (Virtual Microdissection for SNP calling) is a variant caller designed disease-control matched samples where the diseased sample cannot be purified enough. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/23987214)
 
 ## Multi-Sample Callers
 [multiSNV](https://bitbucket.org/joseph07/multisnv/wiki/Home) calls somatic SNVs using NGS data from a normal and multiple tumour samples of the same patient. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/25722372)
