@@ -17,6 +17,9 @@ Last Updated: November 29, 2017
 
 [VarScan](http://varscan.sourceforge.net/somatic-calling.html) calls somatic variants (SNPs and indels). [Paper](https://www.ncbi.nlm.nih.gov/pubmed/22300766)
 
+[HapMuC](https://github.com/usuyama/hapmuc) utilize the information of heterozygous germline variants near candidate mutations to call SNPs. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/25123903)
+
+
 ## SNP Callers
 [deepSNV](http://www.bioconductor.org/packages/release/bioc/html/deepSNV.html) detects low frequency variants in deep sequencing experiments (>=100x coverage). [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3998123/)
 
@@ -45,6 +48,8 @@ Last Updated: November 29, 2017
 [ISOWN](https://github.com/ikalatskaya/ISOWN) is a supervised machine learning algorithm for predicting somatic mutations from tumor only samples. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/28659176)
 
 [SomVarIUS](https://github.com/kylessmith/SomVarIUS) identifies somatic mutations from unpaired samples. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/26589277)
+
+[LumosVar](https://github.com/tgen/LumosVar) is designed for calling somatic variants in tumor samples lacking matched normals. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/29052513)
 
 ## Single and Paired Sample Callers
 [VarDict](https://github.com/AstraZeneca-NGS/VarDict) is a variant caller for both single and paired samples. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/27060149)
