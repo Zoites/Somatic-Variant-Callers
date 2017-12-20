@@ -1,4 +1,4 @@
-Last Updated: November 29, 2017
+Last Updated: December 20, 2017
 
 # Somatic-Variant-Callers
 
@@ -21,6 +21,9 @@ Last Updated: November 29, 2017
 
 [SNVSniffer](http://snvsniffer.sourceforge.net/homepage.htm#introduction) identifies both germline and somatic SNVs/indels. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/27489955)
 
+[OutLyzer](https://github.com/EtieM/outLyzer) detects low allele frequency variants (SNVs/indels). [Paper](https://www.ncbi.nlm.nih.gov/pubmed/27825131)
+
+[smCounter](https://github.com/xuchang116/smCounter) is a barcode/UMI-aware variant caller thats detects SNVs and indels. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/28049435)
 
 ## SNP Callers
 [deepSNV](http://www.bioconductor.org/packages/release/bioc/html/deepSNV.html) detects low frequency variants in deep sequencing experiments (>=100x coverage). [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3998123/)
@@ -57,4 +60,6 @@ Last Updated: November 29, 2017
 [VarDict](https://github.com/AstraZeneca-NGS/VarDict) is a variant caller for both single and paired samples. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/27060149)
 
 ## Integrated Tools/Pipeline/Workflows
-Comming soon..
+[BAYSIC](https://bitbucket.org/jtr4v/baysic) combines SNP variant calls produced by different methods using a bayesian approach. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/24725768)
+
+[Cake](http://cakesomatic.sourceforge.net/) integrates four somatic variant-calling algorithms to identify SNVs. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/23803469/)
