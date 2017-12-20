@@ -25,6 +25,10 @@ Last Updated: December 20, 2017
 
 [smCounter](https://github.com/xuchang116/smCounter) is a barcode/UMI-aware variant caller thats detects SNVs and indels. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/28049435)
 
+[PECaller](https://github.com/wingolab-org/pecaller) detects SNVs and indels in whole-genome datasets. [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5347547/)
+
+[16GT](https://github.com/aquaskyline/16GT) is a variant caller for Illumina whole-genome and whole-exome sequencing data.[Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5570013/)
+
 ## SNP Callers
 [deepSNV](http://www.bioconductor.org/packages/release/bioc/html/deepSNV.html) detects low frequency variants in deep sequencing experiments (>=100x coverage). [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3998123/)
 
@@ -63,3 +67,5 @@ Last Updated: December 20, 2017
 [BAYSIC](https://bitbucket.org/jtr4v/baysic) combines SNP variant calls produced by different methods using a bayesian approach. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/24725768)
 
 [Cake](http://cakesomatic.sourceforge.net/) integrates four somatic variant-calling algorithms to identify SNVs. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/23803469/)
+
+[pyAmpli] (https://github.com/MBeyens/pyAmpli) an amplicon-based variant filter pipeline for targeted resequencing data. [Paper] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5729461/)
