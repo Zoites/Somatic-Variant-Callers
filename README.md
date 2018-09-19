@@ -23,7 +23,7 @@ Last Updated: December 20, 2017
 
 [OutLyzer](https://github.com/EtieM/outLyzer) detects low allele frequency variants (SNVs/indels). [Paper](https://www.ncbi.nlm.nih.gov/pubmed/27825131)
 
-[smCounter](https://github.com/xuchang116/smCounter) is a barcode/UMI-aware variant caller thats detects SNVs and indels. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/28049435). [Update: smCounter2](https://www.ncbi.nlm.nih.gov/pubmed/30192920)
+[smCounter](https://github.com/xuchang116/smCounter) is a barcode/UMI-aware variant caller thats detects SNVs and indels. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/28049435). Tool has an update: [smCounter2](https://www.ncbi.nlm.nih.gov/pubmed/30192920)
 
 [PECaller](https://github.com/wingolab-org/pecaller) detects SNVs and indels in whole-genome datasets. [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5347547/)
 
