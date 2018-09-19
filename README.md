@@ -69,3 +69,5 @@ Last Updated: September 19, 2018
 [Cake](http://cakesomatic.sourceforge.net/) integrates four somatic variant-calling algorithms to identify SNVs. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/23803469/)
 
 [pyAmpli](https://github.com/MBeyens/pyAmpli) is an amplicon-based variant filter pipeline for targeted resequencing data. [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5729461/)
+
+[ToTem](https://totem.software/login/?backlink=mclny&_fid=rujx) is a tool for variant calling pipeline optimization. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/29940847)
