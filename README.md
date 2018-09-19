@@ -1,4 +1,4 @@
-Last Updated: December 20, 2017
+Last Updated: September 19, 2018
 
 # Somatic-Variant-Callers
 
@@ -7,7 +7,7 @@ Last Updated: December 20, 2017
 
 [EBCall](https://github.com/friend1ws/EBCall) detect somatic mutations including indels. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/?term=23471004)
 
-[Strelka2](https://github.com/Illumina/strelka) calls both somatic SNVs and indels. Strelka2 also calls germline mutations. [Preprint](https://www.biorxiv.org/content/early/2017/09/25/192872)
+[Strelka2](https://github.com/Illumina/strelka) calls both somatic SNVs and indels. Strelka2 also calls germline mutations. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/30013048)
 
 [Samtools-mpileup](http://www.htslib.org/doc/samtools.html) call SNPs and short INDELs. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/21320865) 
 
