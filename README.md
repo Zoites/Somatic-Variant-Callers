@@ -3,6 +3,8 @@ Last Updated: September 19, 2018
 # Somatic-Variant-Callers
 
 ## SNP and Indel Callers
+[Lancet](https://github.com/nygenome/lancet) calls somatic SNVs and indels via a de Bruijn graphs assembly strategy. [Paper](https://www.nature.com/articles/s42003-018-0023-9)
+
 [MuTect2](https://software.broadinstitute.org/gatk/documentation/tooldocs/current/org_broadinstitute_gatk_tools_walkers_cancer_m2_MuTect2.php) calls somatic short variants (both SNVs and indels) via local assembly of haplotypes. Tool is still under BETA status.
 
 [EBCall](https://github.com/friend1ws/EBCall) detect somatic mutations including indels. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/?term=23471004)
